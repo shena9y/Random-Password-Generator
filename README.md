@@ -43,3 +43,4 @@ Open `index.html` in your browser, hit **Generate Password**, and click the copy
 ## 📝 License
 
 This project is licensed under the MIT License.
+### [LiveSite👈](https://shena9y.github.io/Random-Password-Generator/)
