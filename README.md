@@ -6,6 +6,8 @@ A small, fun JavaScript practice project: a random password generator web app. C
 ![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=flat&logo=css3&logoColor=white)
 ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat&logo=javascript&logoColor=black)
 
+🔗 **Live Demo:** [https://shena9y.github.io/Random-Password-Generator/](https://shena9y.github.io/Random-Password-Generator/)
+
 ## ✨ Features
 
 - 🎲 **One-click generation** of a 14-character random password
